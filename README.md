@@ -45,7 +45,8 @@ Este projeto demonstra como executar uma aplicação **Quarkus com Java 21** em 
     ```
 
 🌐 **Acesso**
-    ```bash
+    ```bash 
+    
     http://<seu-ip>:8080/hello
     ```
 
